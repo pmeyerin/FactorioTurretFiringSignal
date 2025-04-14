@@ -1,0 +1,9 @@
+{
+  "name": "turret-firing-signal",
+  "version": "0.0.1",
+  "title": "Turret Firing Signal",
+  "author": "Citizen Abacus",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "Turrets emit a signal when they are shooting"
+}
